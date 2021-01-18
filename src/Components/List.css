@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: content-box;
+  padding: 1px;
+  font-family: 'Lucida Casual', 'Comic Sans MS';
+  font-size: 20px;
+}
+.list-text {
+  max-width: 32rem;
+  word-wrap: break-word;
+}
+
+.delete-btn {
+  background-color: #cccc00;
+  padding: 10px 5px;
+  border-radius: 10px;
+  margin: 2px;
+  border: none;
+  font-family: 'Lucida Casual', 'Comic Sans MS';
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.text-input {
+  width: 50%;
+  padding: 5px 0;
+  border-radius: 8px;
+  border-color: black;
+  background-color: #ffffb3;
+  outline: none;
+  font-family: 'Lucida Casual', 'Comic Sans MS';
+  font-size: 15px;
+}
+.submit-btn {
+  background-color: #cccc00;
+  padding: 10px 5px;
+  border-radius: 10px;
+  margin: 2px;
+  border: none;
+  font-family: 'Lucida Casual', 'Comic Sans MS';
+}

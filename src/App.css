@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 40rem;
+  text-align: center;
+  border: 1px solid #ffff4d;
+  max-width: 40rem;
+
+  margin: auto;
+  padding: 1.5rem 0;
+  background-image: url(bgimg.png);
+  background-color: #ffff4d;
+}
+
+.heading-text {
+  margin-top: 0%;
+  font-family: 'Potta One';
+}
